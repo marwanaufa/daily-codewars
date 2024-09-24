@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["ES2020", "DOM"],
+    "module": "CommonJS",
+    "outDir": "dist",
+    "strict": true,
+    "target": "ES2020"
+  },
+  "include": ["src"]
+}
