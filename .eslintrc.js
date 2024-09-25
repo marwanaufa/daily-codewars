@@ -1,5 +1,3 @@
-/** @format */
-
 module.export = {
   root: true,
   parser: "@typescript-eslint/parser",
